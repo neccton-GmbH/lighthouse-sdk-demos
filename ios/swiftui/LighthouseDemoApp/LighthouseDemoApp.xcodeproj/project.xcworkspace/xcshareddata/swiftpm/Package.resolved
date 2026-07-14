@@ -1,0 +1,15 @@
+{
+  "originHash" : "e6745d832259a5659d84fbde18c72eccc119daf9e511dbe54abc3fe7ab6dfe4a",
+  "pins" : [
+    {
+      "identity" : "lighthouse-sdk-ios-dist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/neccton-GmbH/lighthouse-sdk-ios-dist",
+      "state" : {
+        "revision" : "1f06666b114a534c1f7e3be8e5d0814df878dde5",
+        "version" : "0.1.4"
+      }
+    }
+  ],
+  "version" : 3
+}
