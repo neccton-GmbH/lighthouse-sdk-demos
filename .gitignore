@@ -3,3 +3,9 @@
 **/*.xcuserstate
 **/.swiftpm/
 **/DerivedData/
+**/.gradle/
+**/.gradle-home/
+**/.idea/
+**/.kotlin/
+**/build/
+**/local.properties
