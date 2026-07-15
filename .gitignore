@@ -9,3 +9,5 @@
 **/.kotlin/
 **/build/
 **/local.properties
+**/node_modules/
+**/dist/
